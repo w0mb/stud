@@ -1,0 +1,40 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+		xmlns:exp="clr-namespace:Explorer"
+        mc:Ignorable="d" d:DesignWidth="640" d:DesignHeight="480"
+        x:Class="Explorer.MainWindow"
+        Title="Explorer"
+        x:DataType="exp:Explorer"
+		MinWidth="50"
+        MinHeight="100"
+        Width="600"
+        Height="400">
+
+    <Window.DataContext>
+		<exp:Explorer/>
+	</Window.DataContext>
+
+	<Grid Name="mainGrid" ColumnDefinitions="*, 0">
+		<ListBox Grid.Column="0" Name="listBox" ItemsSource="{Binding ShownDirectory}" DoubleTapped="DoubleTappedHandler" Tapped="TappedHandler">
+			<ListBox.ItemTemplate>
+				<DataTemplate>
+					<Border Name="itemBorder" Background="Transparent" Padding="8" ToolTip.Tip="{Binding ToolTip}">
+						<Grid Name="listBoxGrid" ColumnDefinitions="0.08*, *">
+							<Image Name="myImage" HorizontalAlignment="Left" Grid.Column="0" Source="{Binding Icon}" Width="25"/>
+							<TextBlock Name="textBlock" FontSize="15" VerticalAlignment="Center" Grid.Column="1" Text="{Binding Name}"/>
+						</Grid>
+					</Border>
+				</DataTemplate>
+			</ListBox.ItemTemplate>
+			<ListBox.Styles>
+				<Style Selector="ListBoxItem">
+					<Setter Property="Margin" Value="0,0,0,5" />
+					<Setter Property="Padding" Value="5,0,0,0"/>
+				</Style>
+    		</ListBox.Styles>
+		</ListBox>
+		<Image Name="mainImage" Grid.Column="1" Source="{Binding ShownImage}"/>
+	</Grid>
+</Window>

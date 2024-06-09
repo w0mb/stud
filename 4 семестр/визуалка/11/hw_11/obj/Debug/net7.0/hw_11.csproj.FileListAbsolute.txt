@@ -1,0 +1,54 @@
+C:\Users\Mikhail\Desktop\11\hw_11\bin\Debug\net7.0\hw_11.deps.json
+C:\Users\Mikhail\Desktop\11\hw_11\bin\Debug\net7.0\hw_11.dll
+C:\Users\Mikhail\Desktop\11\hw_11\bin\Debug\net7.0\hw_11.pdb
+C:\Users\Mikhail\Desktop\11\hw_11\obj\Debug\net7.0\hw_11.csproj.AssemblyReference.cache
+C:\Users\Mikhail\Desktop\11\hw_11\obj\Debug\net7.0\Avalonia\Resources.Inputs.cache
+C:\Users\Mikhail\Desktop\11\hw_11\obj\Debug\net7.0\Avalonia\resources
+C:\Users\Mikhail\Desktop\11\hw_11\obj\Debug\net7.0\hw_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikhail\Desktop\11\hw_11\obj\Debug\net7.0\hw_11.AssemblyInfoInputs.cache
+C:\Users\Mikhail\Desktop\11\hw_11\obj\Debug\net7.0\hw_11.AssemblyInfo.cs
+C:\Users\Mikhail\Desktop\11\hw_11\obj\Debug\net7.0\hw_11.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail\Desktop\11\hw_11\obj\Debug\net7.0\Avalonia\references
+C:\Users\Mikhail\Desktop\11\hw_11\obj\Debug\net7.0\Avalonia\original.dll
+C:\Users\Mikhail\Desktop\11\hw_11\obj\Debug\net7.0\Avalonia\original.pdb
+C:\Users\Mikhail\Desktop\11\hw_11\obj\Debug\net7.0\Avalonia\original.ref.dll
+C:\Users\Mikhail\Desktop\11\hw_11\obj\Debug\net7.0\refint\hw_11.dll
+C:\Users\Mikhail\Desktop\11\hw_11\obj\Debug\net7.0\hw_11.dll
+C:\Users\Mikhail\Desktop\11\hw_11\obj\Debug\net7.0\hw_11.pdb
+C:\Users\Mikhail\Desktop\11\hw_11\obj\Debug\net7.0\ref\hw_11.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11\bin\Debug\net7.0\hw_11.deps.json
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11\bin\Debug\net7.0\hw_11.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11\bin\Debug\net7.0\hw_11.pdb
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11\obj\Debug\net7.0\hw_11.csproj.AssemblyReference.cache
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11\obj\Debug\net7.0\Avalonia\Resources.Inputs.cache
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11\obj\Debug\net7.0\Avalonia\resources
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11\obj\Debug\net7.0\hw_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11\obj\Debug\net7.0\hw_11.AssemblyInfoInputs.cache
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11\obj\Debug\net7.0\hw_11.AssemblyInfo.cs
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11\obj\Debug\net7.0\hw_11.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11\obj\Debug\net7.0\Avalonia\references
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11\obj\Debug\net7.0\Avalonia\original.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11\obj\Debug\net7.0\Avalonia\original.pdb
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11\obj\Debug\net7.0\Avalonia\original.ref.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11\obj\Debug\net7.0\refint\hw_11.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11\obj\Debug\net7.0\hw_11.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11\obj\Debug\net7.0\hw_11.pdb
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11\obj\Debug\net7.0\ref\hw_11.dll
+C:\Users\ekate\раб\11\hw_11\bin\Debug\net7.0\hw_11.deps.json
+C:\Users\ekate\раб\11\hw_11\bin\Debug\net7.0\hw_11.dll
+C:\Users\ekate\раб\11\hw_11\bin\Debug\net7.0\hw_11.pdb
+C:\Users\ekate\раб\11\hw_11\obj\Debug\net7.0\hw_11.csproj.AssemblyReference.cache
+C:\Users\ekate\раб\11\hw_11\obj\Debug\net7.0\Avalonia\Resources.Inputs.cache
+C:\Users\ekate\раб\11\hw_11\obj\Debug\net7.0\Avalonia\resources
+C:\Users\ekate\раб\11\hw_11\obj\Debug\net7.0\hw_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekate\раб\11\hw_11\obj\Debug\net7.0\hw_11.AssemblyInfoInputs.cache
+C:\Users\ekate\раб\11\hw_11\obj\Debug\net7.0\hw_11.AssemblyInfo.cs
+C:\Users\ekate\раб\11\hw_11\obj\Debug\net7.0\hw_11.csproj.CoreCompileInputs.cache
+C:\Users\ekate\раб\11\hw_11\obj\Debug\net7.0\Avalonia\references
+C:\Users\ekate\раб\11\hw_11\obj\Debug\net7.0\Avalonia\original.dll
+C:\Users\ekate\раб\11\hw_11\obj\Debug\net7.0\Avalonia\original.pdb
+C:\Users\ekate\раб\11\hw_11\obj\Debug\net7.0\Avalonia\original.ref.dll
+C:\Users\ekate\раб\11\hw_11\obj\Debug\net7.0\refint\hw_11.dll
+C:\Users\ekate\раб\11\hw_11\obj\Debug\net7.0\hw_11.dll
+C:\Users\ekate\раб\11\hw_11\obj\Debug\net7.0\hw_11.pdb
+C:\Users\ekate\раб\11\hw_11\obj\Debug\net7.0\ref\hw_11.dll

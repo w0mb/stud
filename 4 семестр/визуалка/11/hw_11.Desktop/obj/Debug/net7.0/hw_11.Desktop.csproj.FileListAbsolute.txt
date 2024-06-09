@@ -1,0 +1,387 @@
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\hw_11.Desktop.exe
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\hw_11.Desktop.deps.json
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\hw_11.Desktop.runtimeconfig.json
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\hw_11.Desktop.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\hw_11.Desktop.pdb
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Base.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Controls.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.DesignerSupport.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Dialogs.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Markup.Xaml.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Markup.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Metal.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.MicroCom.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.OpenGL.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Controls.DataGrid.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Desktop.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Diagnostics.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Fonts.Inter.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.FreeDesktop.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Native.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.ReactiveUI.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Remote.Protocol.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Skia.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Themes.Fluent.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Themes.Simple.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Win32.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.X11.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\CommunityToolkit.Mvvm.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\DynamicData.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\HarfBuzzSharp.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\MicroCom.Runtime.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\ReactiveUI.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\SkiaSharp.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Splat.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\System.IO.Pipelines.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\System.Reactive.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\Tmds.DBus.Protocol.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\hw_11.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\bin\Debug\net7.0\hw_11.pdb
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\obj\Debug\net7.0\hw_11.Desktop.csproj.AssemblyReference.cache
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\obj\Debug\net7.0\Avalonia\Resources.Inputs.cache
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\obj\Debug\net7.0\hw_11.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\obj\Debug\net7.0\hw_11.Desktop.AssemblyInfoInputs.cache
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\obj\Debug\net7.0\hw_11.Desktop.AssemblyInfo.cs
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\obj\Debug\net7.0\hw_11.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\obj\Debug\net7.0\hw_11.Desktop.csproj.CopyComplete
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\obj\Debug\net7.0\hw_11.Desktop.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\obj\Debug\net7.0\refint\hw_11.Desktop.dll
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\obj\Debug\net7.0\hw_11.Desktop.pdb
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\obj\Debug\net7.0\hw_11.Desktop.genruntimeconfig.cache
+C:\Users\Mikhail\Desktop\11\hw_11.Desktop\obj\Debug\net7.0\ref\hw_11.Desktop.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\hw_11.Desktop.exe
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\hw_11.Desktop.deps.json
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\hw_11.Desktop.runtimeconfig.json
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\hw_11.Desktop.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\hw_11.Desktop.pdb
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Base.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Controls.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.DesignerSupport.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Dialogs.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Markup.Xaml.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Markup.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Metal.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.MicroCom.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.OpenGL.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Controls.DataGrid.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Desktop.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Diagnostics.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Fonts.Inter.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.FreeDesktop.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Native.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.ReactiveUI.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Remote.Protocol.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Skia.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Themes.Fluent.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Themes.Simple.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Win32.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.X11.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\CommunityToolkit.Mvvm.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\DynamicData.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\HarfBuzzSharp.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\MicroCom.Runtime.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\ReactiveUI.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\SkiaSharp.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Splat.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\System.IO.Pipelines.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\System.Reactive.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\Tmds.DBus.Protocol.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\hw_11.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\bin\Debug\net7.0\hw_11.pdb
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\obj\Debug\net7.0\hw_11.Desktop.csproj.AssemblyReference.cache
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\obj\Debug\net7.0\Avalonia\Resources.Inputs.cache
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\obj\Debug\net7.0\hw_11.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\obj\Debug\net7.0\hw_11.Desktop.AssemblyInfoInputs.cache
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\obj\Debug\net7.0\hw_11.Desktop.AssemblyInfo.cs
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\obj\Debug\net7.0\hw_11.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\obj\Debug\net7.0\hw_11.Desktop.csproj.CopyComplete
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\obj\Debug\net7.0\hw_11.Desktop.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\obj\Debug\net7.0\refint\hw_11.Desktop.dll
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\obj\Debug\net7.0\hw_11.Desktop.pdb
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\obj\Debug\net7.0\hw_11.Desktop.genruntimeconfig.cache
+C:\Users\Mikhail\Desktop\ИП\Visual programming\11\hw_11.Desktop\obj\Debug\net7.0\ref\hw_11.Desktop.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\hw_11.Desktop.exe
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\hw_11.Desktop.deps.json
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\hw_11.Desktop.runtimeconfig.json
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\hw_11.Desktop.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\hw_11.Desktop.pdb
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Base.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Controls.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.DesignerSupport.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Dialogs.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Markup.Xaml.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Markup.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Metal.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.MicroCom.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.OpenGL.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Controls.DataGrid.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Desktop.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Diagnostics.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Fonts.Inter.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.FreeDesktop.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Native.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.ReactiveUI.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Remote.Protocol.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Skia.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Themes.Fluent.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Themes.Simple.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.Win32.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Avalonia.X11.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\CommunityToolkit.Mvvm.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\DynamicData.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\HarfBuzzSharp.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\MicroCom.Runtime.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\ReactiveUI.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\SkiaSharp.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Splat.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\System.IO.Pipelines.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\System.Reactive.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\Tmds.DBus.Protocol.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\hw_11.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\bin\Debug\net7.0\hw_11.pdb
+C:\Users\ekate\раб\11\hw_11.Desktop\obj\Debug\net7.0\hw_11.Desktop.csproj.AssemblyReference.cache
+C:\Users\ekate\раб\11\hw_11.Desktop\obj\Debug\net7.0\Avalonia\Resources.Inputs.cache
+C:\Users\ekate\раб\11\hw_11.Desktop\obj\Debug\net7.0\hw_11.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekate\раб\11\hw_11.Desktop\obj\Debug\net7.0\hw_11.Desktop.AssemblyInfoInputs.cache
+C:\Users\ekate\раб\11\hw_11.Desktop\obj\Debug\net7.0\hw_11.Desktop.AssemblyInfo.cs
+C:\Users\ekate\раб\11\hw_11.Desktop\obj\Debug\net7.0\hw_11.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\ekate\раб\11\hw_11.Desktop\obj\Debug\net7.0\hw_11.De.709B1ABB.Up2Date
+C:\Users\ekate\раб\11\hw_11.Desktop\obj\Debug\net7.0\hw_11.Desktop.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\obj\Debug\net7.0\refint\hw_11.Desktop.dll
+C:\Users\ekate\раб\11\hw_11.Desktop\obj\Debug\net7.0\hw_11.Desktop.pdb
+C:\Users\ekate\раб\11\hw_11.Desktop\obj\Debug\net7.0\hw_11.Desktop.genruntimeconfig.cache
+C:\Users\ekate\раб\11\hw_11.Desktop\obj\Debug\net7.0\ref\hw_11.Desktop.dll

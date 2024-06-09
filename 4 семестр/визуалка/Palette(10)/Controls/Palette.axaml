@@ -1,0 +1,79 @@
+<Styles xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:controls="using:Palette.Controls"
+		xmlns:avalonia="clr-namespace:Avalonia.Controls;assembly=Avalonia.Controls">
+
+	<Design.PreviewWith>
+		<controls:Palette/>
+	</Design.PreviewWith>
+
+  <Style Selector="controls|Palette">
+    <Setter Property="Template">
+		<ControlTemplate>
+			<Grid ColumnDefinitions="0.5*, 0.5*" Background="Gray">
+				<Grid Grid.Column="0" RowDefinitions="0.5*, 0.25*, 0.25*">
+					<Grid Grid.Row="0" Name="BasicsColorsGrid" RowDefinitions="*">
+						<TextBlock Grid.Row="0" Text="Basics colors:" Foreground="Black" FontWeight="DemiBold" FontSize="18" VerticalAlignment="Bottom"/>
+					</Grid>
+					
+					<Grid Grid.Row="1" Name="CustomColorsFirstGrid" RowDefinitions="*">
+						<TextBlock Grid.Row="0" Text="Custom colors:" Foreground="Black" FontWeight="DemiBold" FontSize="18" VerticalAlignment="Bottom"/>
+					</Grid>
+					
+					<Grid Grid.Row="2" Name="CustomColorsSecondGrid" RowDefinitions="*"/>
+				</Grid>
+
+				<Grid Grid.Column="1" RowDefinitions="0.6*, 0.3*, 0.1*, 10">
+					<Grid Grid.Row="0" ColumnDefinitions="0.8*, 0.2*">
+						<ColorSpectrum Name="ColorSpectrum" Grid.Column="0" CornerRadius="5"/>
+						<ColorSlider Name="ColorSlider" Grid.Column="1" ColorComponent="Component3" ColorModel="Hsva" Orientation="Vertical"/>
+					</Grid>
+
+					<Grid Grid.Row="1" ColumnDefinitions="0.3*, 0.37*, 0.33*">
+						<Grid Grid.Column="0" RowDefinitions="*, *" VerticalAlignment="Center">
+							<Rectangle Name="ColorPreviewer" Grid.Row="0" Fill="Red" Width="100" Height="60" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+							<TextBlock Grid.Row="1" Text="Color/Fill" VerticalAlignment="Top" HorizontalAlignment="Center" Foreground="Black"/>
+						</Grid>
+						
+						<Grid Grid.Column="1" RowDefinitions="*, *, *" HorizontalAlignment="Left">
+							<Grid Grid.Row="0" ColumnDefinitions="*, *">
+								<TextBlock Grid.Column="0" Foreground="Black" Text="Hue:" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+								<TextBox Name="HueTextBox" Grid.Column="1" Background="#333333" Text="0" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+							</Grid>
+
+							<Grid Grid.Row="1" ColumnDefinitions="*, *">
+								<TextBlock Grid.Column="0" Foreground="Black" Text="Sat:" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+								<TextBox Name="SatTextBox" Grid.Column="1" Background="#333333" Text="0" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+							</Grid>
+
+							<Grid Grid.Row="2" ColumnDefinitions="*, *">
+								<TextBlock Grid.Column="0" Foreground="Black" Text="Lum:" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+								<TextBox Name="LumTextBox" Grid.Column="1" Background="#333333" Text="0" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+							</Grid>
+						</Grid>
+
+						<Grid Grid.Column="2" RowDefinitions="*, *, *" HorizontalAlignment="Left">
+							<Grid Grid.Row="0" ColumnDefinitions="*, *">
+								<TextBlock Grid.Column="0" Foreground="Black" Text="Red:" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+								<TextBox Name="RedTextBox" Grid.Column="1" Background="#333333" Text="0" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+							</Grid>
+
+							<Grid Grid.Row="1" ColumnDefinitions="*, *">
+								<TextBlock Grid.Column="0" Foreground="Black" Text="Green:" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+								<TextBox Name="GreenTextBox" Grid.Column="1" Background="#333333" Text="0" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+							</Grid>
+
+							<Grid Grid.Row="2" ColumnDefinitions="*, *">
+								<TextBlock Grid.Column="0" Foreground="Black" Text="Blue:" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+								<TextBox Name="BlueTextBox" Grid.Column="1" Text="0" Background="#333333" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+							</Grid>
+						</Grid>
+					</Grid>
+
+					<Button Name="AddColorButton" Grid.Row="2" Foreground="Black" Content="Add to set" FontSize="18" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+				</Grid>
+			</Grid>
+        </ControlTemplate>
+    </Setter>
+  </Style>
+</Styles>

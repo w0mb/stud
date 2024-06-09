@@ -1,0 +1,21 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+			 xmlns:vm="clr-namespace:MVVM.DataGridViewModels"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="MVVM.Views.Pages.DataGrid">
+
+	<DataGrid  Margin="20" Grid.Row="0" ItemsSource="{Binding DataGrid}" IsReadOnly="True" AutoGenerateColumns="False" BorderThickness="0" GridLinesVisibility="All">
+		<DataGrid.Columns>
+			<DataGridTextColumn Binding="{Binding Name}"/>
+			<DataGridTextColumn Binding="{Binding Email}" />
+			<DataGridTextColumn Binding="{Binding Username}" />
+			<DataGridTextColumn Binding="{Binding Phone}" />
+			<DataGridTextColumn Binding="{Binding Website}" />
+			<DataGridTextColumn Binding="{Binding Address.City}"/>
+		</DataGrid.Columns>
+	</DataGrid>
+
+	
+	</UserControl>

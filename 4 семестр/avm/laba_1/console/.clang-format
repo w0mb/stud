@@ -1,0 +1,23 @@
+---
+# .clang-format for GNU coding standards
+BasedOnStyle: GNU
+IndentWidth: 2
+UseTab: Never
+AccessModifierOffset: -2
+AlignConsecutiveAssignments: true
+AlignConsecutiveDeclarations: true
+AlignOperands: true
+BreakBeforeBraces: Allman
+DerivePointerAlignment: false
+PointerAlignment: Left
+ColumnLimit: 0
+IndentCaseLabels: true
+IndentFunctionDeclarationAfterType: false
+IndentWrappedFunctionNames: false
+AllowShortBlocksOnASingleLine: false
+AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+SpacesBeforeTrailingComments: 1
+SpaceAfterCStyleCast: true
+SortIncludes: true

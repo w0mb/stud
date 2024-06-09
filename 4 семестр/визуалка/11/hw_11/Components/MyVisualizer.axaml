@@ -1,0 +1,16 @@
+﻿<Styles xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:controls="using:hw_11.Components">
+    <Design.PreviewWith>
+        <controls:MyVisualizer />
+    </Design.PreviewWith>
+
+    <Style Selector="controls|MyVisualizer">
+        <!-- Set Defaults -->
+        <Setter Property="Template">
+            <ControlTemplate>
+                <ContentPresenter Content="{Binding ExpanderHolder}" Background="Orange"></ContentPresenter>
+            </ControlTemplate>
+        </Setter>
+    </Style>
+</Styles>

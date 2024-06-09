@@ -1,0 +1,2 @@
+# .clang-format для стандартов кодирования GNU
+BasedOnStyle: GNU

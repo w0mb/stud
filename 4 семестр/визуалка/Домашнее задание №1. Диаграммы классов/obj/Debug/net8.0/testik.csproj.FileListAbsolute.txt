@@ -1,0 +1,28 @@
+C:\Users\dkdnce\Desktop\stud\visual_prog\test\testik\bin\Debug\net8.0\testik.exe
+C:\Users\dkdnce\Desktop\stud\visual_prog\test\testik\bin\Debug\net8.0\testik.deps.json
+C:\Users\dkdnce\Desktop\stud\visual_prog\test\testik\bin\Debug\net8.0\testik.runtimeconfig.json
+C:\Users\dkdnce\Desktop\stud\visual_prog\test\testik\bin\Debug\net8.0\testik.dll
+C:\Users\dkdnce\Desktop\stud\visual_prog\test\testik\bin\Debug\net8.0\testik.pdb
+C:\Users\dkdnce\Desktop\stud\visual_prog\test\testik\obj\Debug\net8.0\testik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkdnce\Desktop\stud\visual_prog\test\testik\obj\Debug\net8.0\testik.AssemblyInfoInputs.cache
+C:\Users\dkdnce\Desktop\stud\visual_prog\test\testik\obj\Debug\net8.0\testik.AssemblyInfo.cs
+C:\Users\dkdnce\Desktop\stud\visual_prog\test\testik\obj\Debug\net8.0\testik.csproj.CoreCompileInputs.cache
+C:\Users\dkdnce\Desktop\stud\visual_prog\test\testik\obj\Debug\net8.0\testik.dll
+C:\Users\dkdnce\Desktop\stud\visual_prog\test\testik\obj\Debug\net8.0\refint\testik.dll
+C:\Users\dkdnce\Desktop\stud\visual_prog\test\testik\obj\Debug\net8.0\testik.pdb
+C:\Users\dkdnce\Desktop\stud\visual_prog\test\testik\obj\Debug\net8.0\testik.genruntimeconfig.cache
+C:\Users\dkdnce\Desktop\stud\visual_prog\test\testik\obj\Debug\net8.0\ref\testik.dll
+C:\Users\dkdnce\Desktop\stud\visual_prog\labs\laba1\Домашнее задание №1. Диаграммы классов\bin\Debug\net8.0\testik.exe
+C:\Users\dkdnce\Desktop\stud\visual_prog\labs\laba1\Домашнее задание №1. Диаграммы классов\bin\Debug\net8.0\testik.deps.json
+C:\Users\dkdnce\Desktop\stud\visual_prog\labs\laba1\Домашнее задание №1. Диаграммы классов\bin\Debug\net8.0\testik.runtimeconfig.json
+C:\Users\dkdnce\Desktop\stud\visual_prog\labs\laba1\Домашнее задание №1. Диаграммы классов\bin\Debug\net8.0\testik.dll
+C:\Users\dkdnce\Desktop\stud\visual_prog\labs\laba1\Домашнее задание №1. Диаграммы классов\bin\Debug\net8.0\testik.pdb
+C:\Users\dkdnce\Desktop\stud\visual_prog\labs\laba1\Домашнее задание №1. Диаграммы классов\obj\Debug\net8.0\testik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkdnce\Desktop\stud\visual_prog\labs\laba1\Домашнее задание №1. Диаграммы классов\obj\Debug\net8.0\testik.AssemblyInfoInputs.cache
+C:\Users\dkdnce\Desktop\stud\visual_prog\labs\laba1\Домашнее задание №1. Диаграммы классов\obj\Debug\net8.0\testik.AssemblyInfo.cs
+C:\Users\dkdnce\Desktop\stud\visual_prog\labs\laba1\Домашнее задание №1. Диаграммы классов\obj\Debug\net8.0\testik.csproj.CoreCompileInputs.cache
+C:\Users\dkdnce\Desktop\stud\visual_prog\labs\laba1\Домашнее задание №1. Диаграммы классов\obj\Debug\net8.0\testik.dll
+C:\Users\dkdnce\Desktop\stud\visual_prog\labs\laba1\Домашнее задание №1. Диаграммы классов\obj\Debug\net8.0\refint\testik.dll
+C:\Users\dkdnce\Desktop\stud\visual_prog\labs\laba1\Домашнее задание №1. Диаграммы классов\obj\Debug\net8.0\testik.pdb
+C:\Users\dkdnce\Desktop\stud\visual_prog\labs\laba1\Домашнее задание №1. Диаграммы классов\obj\Debug\net8.0\testik.genruntimeconfig.cache
+C:\Users\dkdnce\Desktop\stud\visual_prog\labs\laba1\Домашнее задание №1. Диаграммы классов\obj\Debug\net8.0\ref\testik.dll

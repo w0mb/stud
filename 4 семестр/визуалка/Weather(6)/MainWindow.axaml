@@ -1,0 +1,32 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:wthr="clr-namespace:Weather"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="Weather.MainWindow"
+        Title="Weather"
+        x:DataType="wthr:Weather"
+		MinWidth="50"
+        MinHeight="100"
+        Width="600"
+        Height="400">
+
+    <Window.DataContext>
+		<wthr:Weather/>
+	</Window.DataContext>
+
+    <Grid ColumnDefinitions="0.5*, 0.5*" Background="{Binding Background}">
+		<Grid Grid.Column="0" RowDefinitions="0.1*, 0.1*, 0.1*, 0.1*, 0.1*, 0.1*, 0.1*">
+            <TextBlock Padding="10,15,0,0" Grid.Row="0" HorizontalAlignment="Left" FontSize="15" Text="{Binding CityName}" Foreground="White"/>
+            <TextBlock Padding="10,0,0,0" Grid.Row="1" HorizontalAlignment="Left" FontSize="15" Text="{Binding Description}" Foreground="White"/>
+            <TextBlock Padding="10,0,0,0" Grid.Row="2" HorizontalAlignment="Left" FontSize="15" Text="{Binding Temp}" Foreground="White"/>
+            <TextBlock Padding="10,0,0,0" Grid.Row="3" HorizontalAlignment="Left" FontSize="15" Text="{Binding Humidity}" Foreground="White"/>
+            <TextBlock Padding="10,0,0,0" Grid.Row="4" HorizontalAlignment="Left" FontSize="15" Text="{Binding Wind}" Foreground="White"/>
+            <TextBlock Padding="10,0,0,0" Grid.Row="5" HorizontalAlignment="Left" FontSize="15" Text="{Binding AirPressure}" Foreground="White"/>
+            <TextBlock Padding="10,0,0,0" Grid.Row="6" HorizontalAlignment="Left" FontSize="15" Text="{Binding Visibility}" Foreground="White"/>
+		</Grid>
+        <Button Margin="0,100,0,0" Grid.Column="1" VerticalAlignment="Top" VerticalContentAlignment="Center" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Width="150" Height="50" Tapped="TappedHandler" Content="Get weather" />
+    </Grid>
+
+</Window>

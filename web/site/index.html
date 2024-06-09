@@ -1,0 +1,727 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./assets/styles/reset.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    />
+    <link rel="stylesheet" href="./assets/styles/style.css" />
+    <link rel="stylesheet" href="./assets/styles/modal.css" />
+
+    <title>Document</title>
+    <script
+      src="https://api-maps.yandex.ru/2.1/?apikey=ВАШ_API_КЛЮЧ&lang=ru_RU"
+      type="text/javascript"
+    ></script>
+    <!-- Укажите свой API-ключ вместо ВАШ_API_КЛЮЧ -->
+  </head>
+  <body>
+    <header class="hidden">
+      <div class="header__logo">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="21"
+          height="31"
+          viewBox="0 0 21 31"
+          fill="none"
+        >
+          <path
+            d="M17.1397 13.9152C17.1397 14.0698 17.1397 14.2244 17.1397 14.4564C17.1397 18.1671 14.1287 21.2594 10.3456 21.2594C7.56618 21.2594 5.09558 19.5586 4.09191 17.0848C4.09191 16.9302 4.09191 16.8529 4.09191 16.6983C4.09191 12.9875 7.10293 9.89526 10.886 9.89526C13.6654 9.89526 16.0588 11.5187 17.1397 13.9152L17.0625 0C7.64337 0 0 7.65337 0 17.0848H3.93748V31C13.3566 31 21 23.3466 21 13.9152H17.1397Z"
+            fill="#6153CD"
+          />
+        </svg>
+        <p>Digital agency</p>
+      </div>
+      <ul class="header__nav-list">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Projects</a></li>
+      </ul>
+      <p class="header__btn btn-modal">Get in touch</p>
+    </header>
+
+    <main>
+      <div class="first-page__container hidden">
+        <div class="first-page__data-wrap">
+          <p class="first-page__title">
+            Building Brands in the
+            <span>Digital Age</span>
+          </p>
+          <p class="first-page__desc">
+            Your partner in navigating the ever-evolving landscape of digital
+            marketing. From conceptualization to execution, we craft tailored
+            solutions that drive results and elevate your brand to new heights.
+          </p>
+          <p class="first-page__btn btn-modal">Learn more</p>
+        </div>
+        <div class="first-page__img-wrap">
+          <img src="./assets/img/image 6 (1).png" alt="" />
+          <div class="first-page__img-block">
+            <div class="first-page__star-wrap">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="none"
+              >
+                <path
+                  d="M11.1033 3.81663C11.4701 3.07346 12.5299 3.07346 12.8967 3.81663L14.8576 7.78909C15.0031 8.08394 15.2843 8.2884 15.6096 8.33595L19.9962 8.97712C20.8161 9.09696 21.1429 10.1048 20.5493 10.683L17.3768 13.773C17.1409 14.0027 17.0333 14.3339 17.0889 14.6584L17.8374 19.0226C17.9775 19.8396 17.12 20.4626 16.3864 20.0767L12.4655 18.0148C12.1741 17.8615 11.8259 17.8615 11.5345 18.0148L7.61363 20.0767C6.88 20.4626 6.02245 19.8396 6.16257 19.0226L6.91109 14.6584C6.96675 14.3339 6.85908 14.0027 6.62321 13.773L3.45068 10.683C2.85708 10.1048 3.18387 9.09696 4.00378 8.97712L8.39037 8.33595C8.71572 8.2884 8.99691 8.08394 9.14245 7.78909L11.1033 3.81663Z"
+                  fill="#F8BD38"
+                />
+              </svg>
+              <p>PROJECTS</p>
+            </div>
+            <p class="first-page__img-block__text">600+ <span>Done</span></p>
+          </div>
+        </div>
+      </div>
+
+      <div class="labels__container hidden">
+        <p class="labels__title">Powering next-gen companies</p>
+        <ul class="labels__list">
+          <li>
+            <img src="./assets/img/clickup.svg" alt="" />
+          </li>
+          <li>
+            <img src="./assets/img/dropbox.svg" alt="" />
+          </li>
+          <li>
+            <img src="./assets/img/segment.svg" alt="" />
+          </li>
+          <li>
+            <img src="./assets/img/clickup.svg" alt="" />
+          </li>
+          <li><img src="./assets/img/dropbox.svg" /></li>
+        </ul>
+      </div>
+      <div class="explore hidden">
+        <div class="explore__container">
+          <p class="explore__title">Explore Our Services</p>
+          <p class="explore__desc">
+            We are self-service data analytics software that lets you create
+            visually.
+          </p>
+          <ul class="explore__list">
+            <li class="explore__item">
+              <div class="explore__item__img">
+                <img src="./assets/img/item_1.svg" alt="" />
+              </div>
+              <p class="explore__item__title">App Development</p>
+              <p class="explore__item__desc">
+                ipsum dolor sit amet, consectetur adipiscing elit. Nullam
+                euismod metus vel sem bibendum, a bibendum justo tempor. Sed vel
+                lectus
+              </p>
+            </li>
+            <li class="explore__item">
+              <div class="explore__item__img">
+                <img src="./assets/img/planet.svg" alt="" />
+              </div>
+              <p class="explore__item__title">Web Designing</p>
+              <p class="explore__item__desc">
+                ipsum dolor sit amet, consectetur adipiscing elit. Nullam
+                euismod metus vel sem bibendum, a bibendum justo tempor. Sed vel
+                lectus
+              </p>
+            </li>
+            <li class="explore__item">
+              <div class="explore__item__img">
+                <img src="./assets/img/pen.svg" alt="" />
+              </div>
+              <p class="explore__item__title">Graphic Designing</p>
+              <p class="explore__item__desc">
+                ipsum dolor sit amet, consectetur adipiscing elit. Nullam
+                euismod metus vel sem bibendum, a bibendum justo tempor. Sed vel
+                lectus
+              </p>
+            </li>
+            <li class="explore__item">
+              <div class="explore__item__img">
+                <img src="./assets/img/notebook.svg" alt="" />
+              </div>
+              <p class="explore__item__title">Digital Marketing</p>
+              <p class="explore__item__desc">
+                ipsum dolor sit amet, consectetur adipiscing elit. Nullam
+                euismod metus vel sem bibendum, a bibendum justo tempor. Sed vel
+                lectus
+              </p>
+            </li>
+          </ul>
+          <p class="explore__btn btn-modal">Learn More</p>
+        </div>
+      </div>
+      <div class="slider__container hidden">
+        <div class="slider__overflow">
+          <div class="slider__item">
+            <img
+              src="./assets/img/Rectangle 21.png"
+              alt=""
+              class="slider__img"
+            />
+            <div class="slider__item-data">
+              <p class="slider__item-text">
+                “The results have been incredible. With Power Digital, it feels
+                like they’re in our trench, supporting and understanding us.
+                They’re like a partner and mentor in helping us get where we
+                want to be.”
+              </p>
+              <p class="slider__item-name">
+                <span>David Calathan</span>
+                - Director of Design Operations, New York
+              </p>
+              <div class="slider__buttons-wrap">
+                <div class="slider__button-item prev">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="22"
+                    height="22"
+                    viewBox="0 0 22 22"
+                    fill="none"
+                  >
+                    <path
+                      d="M21 11H1"
+                      stroke="black"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                    <path
+                      d="M11 21L1 11L11 1"
+                      stroke="black"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                  </svg>
+                </div>
+                <div class="slider__button-item next">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="22"
+                    height="22"
+                    viewBox="0 0 22 22"
+                    fill="none"
+                  >
+                    <path
+                      d="M1 11H21"
+                      stroke="black"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                    <path
+                      d="M11 21L21 11L11 1"
+                      stroke="black"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="slider__item">
+            <img
+              src="./assets/img/Rectangle 21.png"
+              alt=""
+              class="slider__img"
+            />
+            <div class="slider__item-data">
+              <p class="slider__item-text">
+                “The results have been incredible. With Power Digital, it feels
+                like they’re in our trench, supporting and understanding us.
+                They’re like a partner and mentor in helping us get where we
+                want to be.”
+              </p>
+              <p class="slider__item-name">
+                <span>David Calathan</span>
+                - Director of Design Operations, New York
+              </p>
+              <div class="slider__buttons-wrap">
+                <div class="slider__button-item prev">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="22"
+                    height="22"
+                    viewBox="0 0 22 22"
+                    fill="none"
+                  >
+                    <path
+                      d="M21 11H1"
+                      stroke="black"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                    <path
+                      d="M11 21L1 11L11 1"
+                      stroke="black"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                  </svg>
+                </div>
+                <div class="slider__button-item next">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="22"
+                    height="22"
+                    viewBox="0 0 22 22"
+                    fill="none"
+                  >
+                    <path
+                      d="M1 11H21"
+                      stroke="black"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                    <path
+                      d="M11 21L21 11L11 1"
+                      stroke="black"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="slider__item">
+            <img
+              src="./assets/img/Rectangle 21.png"
+              alt=""
+              class="slider__img"
+            />
+            <div class="slider__item-data">
+              <p class="slider__item-text">
+                “The results have been incredible. With Power Digital, it feels
+                like they’re in our trench, supporting and understanding us.
+                They’re like a partner and mentor in helping us get where we
+                want to be.”
+              </p>
+              <p class="slider__item-name">
+                <span>David Calathan</span>
+                - Director of Design Operations, New York
+              </p>
+              <div class="slider__buttons-wrap">
+                <div class="slider__button-item prev">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="22"
+                    height="22"
+                    viewBox="0 0 22 22"
+                    fill="none"
+                  >
+                    <path
+                      d="M21 11H1"
+                      stroke="black"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                    <path
+                      d="M11 21L1 11L11 1"
+                      stroke="black"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                  </svg>
+                </div>
+                <div class="slider__button-item next">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="22"
+                    height="22"
+                    viewBox="0 0 22 22"
+                    fill="none"
+                  >
+                    <path
+                      d="M1 11H21"
+                      stroke="black"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                    <path
+                      d="M11 21L21 11L11 1"
+                      stroke="black"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="slider__item">
+            <img
+              src="./assets/img/Rectangle 21.png"
+              alt=""
+              class="slider__img"
+            />
+            <div class="slider__item-data">
+              <p class="slider__item-text">
+                “The results have been incredible. With Power Digital, it feels
+                like they’re in our trench, supporting and understanding us.
+                They’re like a partner and mentor in helping us get where we
+                want to be.”
+              </p>
+              <p class="slider__item-name">
+                <span>David Calathan</span>
+                - Director of Design Operations, New York
+              </p>
+              <div class="slider__buttons-wrap">
+                <div class="slider__button-item prev">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="22"
+                    height="22"
+                    viewBox="0 0 22 22"
+                    fill="none"
+                  >
+                    <path
+                      d="M21 11H1"
+                      stroke="black"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                    <path
+                      d="M11 21L1 11L11 1"
+                      stroke="black"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                  </svg>
+                </div>
+                <div class="slider__button-item next">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="22"
+                    height="22"
+                    viewBox="0 0 22 22"
+                    fill="none"
+                  >
+                    <path
+                      d="M1 11H21"
+                      stroke="black"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                    <path
+                      d="M11 21L21 11L11 1"
+                      stroke="black"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="posts hidden">
+        <div class="posts__container">
+          <div class="posts__item">
+            <img
+              src="./assets/img/Rectangle 22.png"
+              class="posts__img"
+              alt=""
+            />
+            <div class="posts__item-data">
+              <p class="posts__item-title">Realtime analytics</p>
+              <p class="posts__item-desc">
+                “The results have been incredible. With Power Digital, it feels
+                like they’re in our trench, supporting and understanding us.
+                They’re like a partner and mentor in helping us get where we
+                want to be. “The results have been incredible.
+              </p>
+              <div class="posts__item-btn">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <path
+                    d="M1 10H19"
+                    stroke="black"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                  <path
+                    d="M10 19L19 10L10 1"
+                    stroke="black"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                </svg>
+              </div>
+            </div>
+          </div>
+          <div class="posts__item">
+            <img
+              src="./assets/img/Rectangle 22.png"
+              class="posts__img"
+              alt=""
+            />
+            <div class="posts__item-data">
+              <p class="posts__item-title">Realtime analytics</p>
+              <p class="posts__item-desc">
+                “The results have been incredible. With Power Digital, it feels
+                like they’re in our trench, supporting and understanding us.
+                They’re like a partner and mentor in helping us get where we
+                want to be. “The results have been incredible.
+              </p>
+              <div class="posts__item-btn">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <path
+                    d="M1 10H19"
+                    stroke="black"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                  <path
+                    d="M10 19L19 10L10 1"
+                    stroke="black"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                </svg>
+              </div>
+            </div>
+          </div>
+          <div class="posts__item">
+            <img
+              src="./assets/img/Rectangle 22.png"
+              class="posts__img"
+              alt=""
+            />
+            <div class="posts__item-data">
+              <p class="posts__item-title">Realtime analytics</p>
+              <p class="posts__item-desc">
+                “The results have been incredible. With Power Digital, it feels
+                like they’re in our trench, supporting and understanding us.
+                They’re like a partner and mentor in helping us get where we
+                want to be. “The results have been incredible.
+              </p>
+              <div class="posts__item-btn">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <path
+                    d="M1 10H19"
+                    stroke="black"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                  <path
+                    d="M10 19L19 10L10 1"
+                    stroke="black"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <p class="posts__big-btn btn-modal">View all posts</p>
+      </div>
+      <div class="news__container">
+        <p class="news__h">Last News</p>
+        <div class="news__wrap">
+          <div class="news__item">
+            <div class="news__img">
+              <img
+                src="https://hyperpc.ru/images/support/articles/cpu-turbo-boost/cpu-turbo-boost-content-banner_webp.jpg"
+                alt=""
+              />
+            </div>
+            <p class="news__title">Working with Intel</p>
+            <p class="news__desc">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Doloremque assumenda quam labore sequi quae, laudantium recusandae
+              quisquam sunt perspiciatis dolorem nulla ipsum reprehenderit, non
+              maiores quia inventore tempore? Inventore, similique!
+            </p>
+          </div>
+          <div class="news__item">
+            <div class="news__img">
+              <img
+                src="https://hyperpc.ru/images/support/articles/cpu-turbo-boost/cpu-turbo-boost-content-banner_webp.jpg"
+                alt=""
+              />
+            </div>
+            <p class="news__title">Working with Intel</p>
+            <p class="news__desc">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Doloremque assumenda quam labore sequi quae, laudantium recusandae
+              quisquam sunt perspiciatis dolorem nulla ipsum reprehenderit, non
+              maiores quia inventore tempore? Inventore, similique!
+            </p>
+          </div>
+          <div class="news__item">
+            <div class="news__img">
+              <img
+                src="https://hyperpc.ru/images/support/articles/cpu-turbo-boost/cpu-turbo-boost-content-banner_webp.jpg"
+                alt=""
+              />
+            </div>
+            <p class="news__title">Working with Intel</p>
+            <p class="news__desc">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Doloremque assumenda quam labore sequi quae, laudantium recusandae
+              quisquam sunt perspiciatis dolorem nulla ipsum reprehenderit, non
+              maiores quia inventore tempore? Inventore, similique!
+            </p>
+          </div>
+        </div>
+      </div>
+    </main>
+    <div id="map" class="hidden"></div>
+
+    <footer class="hidden">
+      <div class="footer__container">
+        <div class="footer__data">
+          <p class="footer__title">Digital agency</p>
+          <p class="footer__desc">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
+            dictum aliquet accumsan porta lectus ridiculus in mattis. Netus
+            sodales in volutpat ullamcorper amet adipiscing fermentum.
+          </p>
+          <div class="footer__buttons-wrap">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="114"
+              height="20"
+              viewBox="0 0 114 20"
+              fill="none"
+            >
+              <path
+                d="M15.9991 5.35384C15.3991 5.61922 14.7658 5.78508 14.0992 5.88459C14.7658 5.48653 15.2991 4.85625 15.5325 4.09329C14.8992 4.45819 14.1992 4.72356 13.4326 4.88942C12.8326 4.25915 11.966 3.86108 11.0327 3.86108C9.23282 3.86108 7.76623 5.32066 7.76623 7.11197C7.76623 7.37735 7.79957 7.60955 7.86623 7.84176C5.16638 7.70907 2.73318 6.41535 1.09994 4.42501C0.833287 4.9226 0.666629 5.45335 0.666629 6.05046C0.666629 7.17831 1.23326 8.17348 2.13321 8.77058C1.59991 8.73741 1.09994 8.60472 0.633298 8.37252V8.40569C0.633298 9.99796 1.76657 11.3248 3.26648 11.6234C2.99983 11.6897 2.69985 11.7229 2.39987 11.7229C2.19988 11.7229 1.96656 11.6897 1.76657 11.6566C2.19988 12.9503 3.39981 13.9123 4.83306 13.9123C3.69979 14.7748 2.29987 15.3055 0.766624 15.3055C0.499972 15.3055 0.23332 15.3055 0 15.2724C1.46658 16.2012 3.16649 16.7319 5.03305 16.7319C11.066 16.7319 14.3659 11.7561 14.3659 7.44369C14.3659 7.311 14.3659 7.14514 14.3659 7.01245C14.9992 6.58121 15.5658 6.01728 15.9991 5.35384Z"
+                fill="white"
+              />
+              <path
+                d="M53.0131 18.6364V10.7227H50.3372V7.63856H53.0131V5.3641C53.0131 2.72461 54.6329 1.28735 56.9988 1.28735C58.1321 1.28735 59.1061 1.37133 59.39 1.40886V4.16729L57.7491 4.16803C56.4624 4.16803 56.2132 4.77653 56.2132 5.66948V7.63856H59.2819L58.8824 10.7227H56.2132V18.6364H53.0131Z"
+                fill="white"
+              />
+              <path
+                d="M103.427 1.7394C106.017 1.7394 106.324 1.74906 107.347 1.79548C107.962 1.80297 108.571 1.91538 109.148 2.12783C109.566 2.28841 109.946 2.5344 110.263 2.84997C110.581 3.16554 110.828 3.54369 110.989 3.96008C111.203 4.53427 111.315 5.14063 111.323 5.75281C111.369 6.77098 111.379 7.07621 111.379 9.65359C111.379 12.231 111.37 12.5362 111.323 13.5544C111.315 14.1666 111.203 14.7729 110.989 15.3471C110.828 15.7635 110.581 16.1416 110.263 16.4572C109.946 16.7728 109.566 17.0188 109.148 17.1794C108.571 17.3918 107.962 17.5042 107.347 17.5117C106.324 17.5577 106.017 17.5678 103.427 17.5678C100.837 17.5678 100.53 17.5581 99.5077 17.5117C98.8926 17.5042 98.2833 17.3918 97.7063 17.1794C97.288 17.0188 96.908 16.7728 96.5909 16.4572C96.2738 16.1416 96.0267 15.7635 95.8653 15.3471C95.6518 14.7729 95.5389 14.1666 95.5314 13.5544C95.4852 12.5362 95.475 12.231 95.475 9.65359C95.475 7.07621 95.4847 6.77098 95.5314 5.75281C95.5389 5.14063 95.6518 4.53427 95.8653 3.96008C96.0267 3.54369 96.2738 3.16554 96.5909 2.84997C96.908 2.5344 97.288 2.28841 97.7063 2.12783C98.2833 1.91538 98.8926 1.80297 99.5077 1.79548C100.531 1.74952 100.837 1.7394 103.427 1.7394ZM103.427 0C100.794 0 100.463 0.0110321 99.4282 0.0579188C98.6232 0.0738547 97.8267 0.225553 97.0726 0.50656C96.4258 0.749114 95.8399 1.12922 95.3558 1.62035C94.8619 2.10226 94.4797 2.68568 94.2358 3.32987C93.9534 4.08033 93.801 4.87302 93.785 5.6742C93.7388 6.70295 93.7277 7.033 93.7277 9.65313C93.7277 12.2733 93.7388 12.6033 93.7859 13.633C93.8019 14.4342 93.9544 15.2269 94.2367 15.9773C94.4803 16.6214 94.8622 17.2048 95.3558 17.6868C95.8402 18.1781 96.4264 18.5582 97.0736 18.8006C97.8276 19.0816 98.6241 19.2333 99.4292 19.2493C100.464 19.2952 100.794 19.3072 103.428 19.3072C106.062 19.3072 106.392 19.2962 107.427 19.2493C108.232 19.2333 109.029 19.0816 109.783 18.8006C110.427 18.5521 111.012 18.1726 111.5 17.6863C111.988 17.2 112.369 16.6176 112.619 15.9764C112.901 15.2259 113.053 14.4333 113.069 13.6321C113.116 12.6033 113.127 12.2733 113.127 9.65313C113.127 7.033 113.116 6.70295 113.068 5.67329C113.052 4.8721 112.9 4.07941 112.618 3.32895C112.374 2.68485 111.992 2.10143 111.499 1.61943C111.014 1.12819 110.428 0.748076 109.781 0.50564C109.027 0.224633 108.23 0.0729354 107.425 0.0569995C106.392 0.0110322 106.06 0 103.427 0Z"
+                fill="white"
+              />
+              <path
+                d="M103.425 4.69629C102.44 4.69629 101.477 4.98702 100.658 5.53171C99.8391 6.07641 99.2007 6.8506 98.8237 7.7564C98.4467 8.66219 98.348 9.6589 98.5402 10.6205C98.7324 11.5821 99.2068 12.4653 99.9034 13.1586C100.6 13.8519 101.487 14.324 102.454 14.5153C103.42 14.7065 104.421 14.6084 105.332 14.2332C106.242 13.858 107.02 13.2226 107.567 12.4074C108.114 11.5922 108.406 10.6338 108.406 9.6534C108.406 8.3387 107.882 7.07783 106.947 6.14819C106.013 5.21856 104.746 4.69629 103.425 4.69629ZM103.425 12.8711C102.786 12.8711 102.161 12.6824 101.629 12.3288C101.097 11.9753 100.683 11.4727 100.438 10.8848C100.194 10.2968 100.13 9.64983 100.254 9.02566C100.379 8.40148 100.687 7.82814 101.139 7.37814C101.591 6.92813 102.167 6.62168 102.795 6.49752C103.422 6.37336 104.072 6.43708 104.663 6.68063C105.253 6.92417 105.758 7.33659 106.114 7.86574C106.469 8.39489 106.659 9.017 106.659 9.6534C106.659 10.5068 106.318 11.3252 105.712 11.9287C105.105 12.5321 104.283 12.8711 103.425 12.8711Z"
+                fill="white"
+              />
+              <path
+                d="M108.604 5.65855C109.247 5.65855 109.768 5.13993 109.768 4.50017C109.768 3.86042 109.247 3.3418 108.604 3.3418C107.961 3.3418 107.44 3.86042 107.44 4.50017C107.44 5.13993 107.961 5.65855 108.604 5.65855Z"
+                fill="white"
+              />
+            </svg>
+          </div>
+        </div>
+        <div class="footer__nav">
+          <p class="footer__nav-title">Company</p>
+          <ul class="footer__list">
+            <li><a href="#">About </a></li>
+            <li><a href="#">Features </a></li>
+            <li><a href="#">Works </a></li>
+            <li><a href="#">Career </a></li>
+          </ul>
+        </div>
+        <div class="footer__nav">
+          <p class="footer__nav-title">Company</p>
+          <ul class="footer__list">
+            <li><a href="#">About </a></li>
+            <li><a href="#">Features </a></li>
+            <li><a href="#">Works </a></li>
+            <li><a href="#">Career </a></li>
+          </ul>
+        </div>
+        <div class="footer__nav">
+          <p class="footer__nav-title">Company</p>
+          <ul class="footer__list">
+            <li><a href="#">About </a></li>
+            <li><a href="#">Features </a></li>
+            <li><a href="#">Works </a></li>
+            <li><a href="#">Career </a></li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+    <div class="modal__container">
+      <div class="modal__block">
+        <p class="modal__title">Set your information</p>
+        <input
+          type="text"
+          name="text"
+          class="modal__input modal__number"
+          placeholder="89231161541"
+        />
+        <input
+          type="text"
+          name="text"
+          class="modal__input modal__email"
+          placeholder="asd@mail.ru"
+        />
+        <input
+          type="password"
+          name="text"
+          class="modal__input modal__password"
+          placeholder="Password"
+        />
+        <div class="modal__btn">
+          <div class="loader"></div>
+          <p>Send message</p>
+        </div>
+      </div>
+    </div>
+    <div class="modal-photo__window">
+      <div class="modal-photo__wrap">
+        <img
+          src="
+        "
+          alt=""
+        />
+      </div>
+    </div>
+  </body>
+  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+  <script src="./assets/scripts/scripts.js"></script>
+  <script src="./assets/scripts/modal.js"></script>
+  <script>
+    ymaps.ready(init);
+
+    function init() {
+      var myMap = new ymaps.Map("map", {
+        center: [55.751574, 37.573856], // координаты центра карты
+        zoom: 9, // уровень масштабирования карты
+      });
+
+      // Добавление метки
+      var myPlacemark = new ymaps.Placemark([55.751574, 37.573856], {
+        hintContent: "Москва!",
+        balloonContent: "Столица России",
+      });
+
+      myMap.geoObjects.add(myPlacemark);
+    }
+  </script>
+</html>

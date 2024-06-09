@@ -1,0 +1,5 @@
+# .clang-format для стандартов кодирования GNU
+BasedOnStyle: GNU
+IndentWidth: 2
+UseTab: Never
+

@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ekate\\\u0440\u0430\u0431\\7-8\\lab7\\hw_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD20F4-7D56-49D6-8C10-696DD1D85D0A}|..\\hw_7.Desktop\\hw_7.Desktop.csproj|c:\\users\\ekate\\\u0440\u0430\u0431\\7-8\\lab7\\hw_7.desktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCA557E-160A-4410-AAB7-CFA829559B32}|hw_7.csproj|c:\\users\\ekate\\\u0440\u0430\u0431\\7-8\\lab7\\hw_7\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCA557E-160A-4410-AAB7-CFA829559B32}|hw_7.csproj|solutionrelative:viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCA557E-160A-4410-AAB7-CFA829559B32}|hw_7.csproj|c:\\users\\ekate\\\u0440\u0430\u0431\\7-8\\lab7\\hw_7\\services\\observablecollectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCA557E-160A-4410-AAB7-CFA829559B32}|hw_7.csproj|solutionrelative:services\\observablecollectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCA557E-160A-4410-AAB7-CFA829559B32}|hw_7.csproj|c:\\users\\ekate\\\u0440\u0430\u0431\\7-8\\lab7\\hw_7\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCA557E-160A-4410-AAB7-CFA829559B32}|hw_7.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCA557E-160A-4410-AAB7-CFA829559B32}|hw_7.csproj|c:\\users\\ekate\\\u0440\u0430\u0431\\7-8\\lab7\\hw_7\\views\\mainview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{ADCA557E-160A-4410-AAB7-CFA829559B32}|hw_7.csproj|solutionrelative:views\\mainview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD20F4-7D56-49D6-8C10-696DD1D85D0A}|..\\hw_7.Desktop\\hw_7.Desktop.csproj|c:\\users\\ekate\\\u0440\u0430\u0431\\7-8\\lab7\\hw_7.desktop\\hw_7.desktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ekate\\\u0440\u0430\u0431\\7-8\\lab7\\hw_7.Desktop\\Program.cs",
+              "RelativeDocumentMoniker": "..\\hw_7.Desktop\\Program.cs",
+              "ToolTip": "C:\\Users\\ekate\\\u0440\u0430\u0431\\7-8\\lab7\\hw_7.Desktop\\Program.cs",
+              "RelativeToolTip": "..\\hw_7.Desktop\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T15:00:50.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObservableCollectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ekate\\\u0440\u0430\u0431\\7-8\\lab7\\hw_7\\Services\\ObservableCollectionFactory.cs",
+              "RelativeDocumentMoniker": "Services\\ObservableCollectionFactory.cs",
+              "ToolTip": "C:\\Users\\ekate\\\u0440\u0430\u0431\\7-8\\lab7\\hw_7\\Services\\ObservableCollectionFactory.cs",
+              "RelativeToolTip": "Services\\ObservableCollectionFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T09:48:36.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "hw_7.Desktop.csproj",
+              "DocumentMoniker": "C:\\Users\\ekate\\\u0440\u0430\u0431\\7-8\\lab7\\hw_7.Desktop\\hw_7.Desktop.csproj",
+              "RelativeDocumentMoniker": "..\\hw_7.Desktop\\hw_7.Desktop.csproj",
+              "ToolTip": "C:\\Users\\ekate\\\u0440\u0430\u0431\\7-8\\lab7\\hw_7.Desktop\\hw_7.Desktop.csproj",
+              "RelativeToolTip": "..\\hw_7.Desktop\\hw_7.Desktop.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-25T09:48:36.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainView.axaml",
+              "DocumentMoniker": "C:\\Users\\ekate\\\u0440\u0430\u0431\\7-8\\lab7\\hw_7\\Views\\MainView.axaml",
+              "RelativeDocumentMoniker": "Views\\MainView.axaml",
+              "ToolTip": "C:\\Users\\ekate\\\u0440\u0430\u0431\\7-8\\lab7\\hw_7\\Views\\MainView.axaml",
+              "RelativeToolTip": "Views\\MainView.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T09:48:36.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\ekate\\\u0440\u0430\u0431\\7-8\\lab7\\hw_7\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\ekate\\\u0440\u0430\u0431\\7-8\\lab7\\hw_7\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "ViewModels\\ViewModelBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T09:48:36.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ekate\\\u0440\u0430\u0431\\7-8\\lab7\\hw_7\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\ekate\\\u0440\u0430\u0431\\7-8\\lab7\\hw_7\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwEQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T09:48:36.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

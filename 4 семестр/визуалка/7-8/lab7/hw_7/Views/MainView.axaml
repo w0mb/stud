@@ -1,0 +1,42 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="clr-namespace:hw_7.ViewModels"
+             xmlns:local="clr-namespace:hw_7.Views"
+             xmlns:dataGrid="clr-namespace:Avalonia.Controls;assembly=Avalonia.Controls.DataGrid"
+             mc:Ignorable="d"
+             d:DesignWidth="800"
+             d:DesignHeight="450"
+             x:Class="hw_7.Views.MainView"
+             x:DataType="vm:MainViewModel"
+             Name="root">
+  <Design.DataContext>
+    <vm:MainViewModel />
+  </Design.DataContext>
+  <Grid RowDefinitions="0.90*, 0.1*">
+    <DataGrid Grid.Row="0" ItemsSource="{Binding Users, Mode=TwoWay}" AutoGenerateColumns="False" BorderBrush="Gray" GridLinesVisibility="All">
+      <DataGrid.Columns>
+        <DataGridTextColumn Header="Name" Width="*" Binding="{Binding Name}" />
+        <DataGridTextColumn Header="Email" Width="*" Binding="{Binding Email}" />
+        <DataGridTemplateColumn Width="*" Header="Actions">
+          <DataGridTemplateColumn.CellTemplate>
+            <DataTemplate>
+              <Button
+                  HorizontalAlignment="Center"
+                  HorizontalContentAlignment="Center"
+                  Command="{Binding $parent[9].DataContext.RemoveUser}"
+                  CommandParameter="{Binding .}"
+                  Content="Remove"
+                  Foreground="White" />
+            </DataTemplate>
+          </DataGridTemplateColumn.CellTemplate>
+        </DataGridTemplateColumn>
+      </DataGrid.Columns>
+    </DataGrid>
+    <Button Grid.Row="1"
+            HorizontalAlignment="Center"
+            Command="{Binding Path=AddUser}">Add</Button>
+  </Grid>
+
+</UserControl>

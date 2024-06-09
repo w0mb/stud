@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vital\\Desktop\\Volume\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CD64E2-4AA1-471C-9A81-63DF8CB8DD66}|Volume.csproj|c:\\users\\vital\\desktop\\volume\\control\\volumecontrol.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CD64E2-4AA1-471C-9A81-63DF8CB8DD66}|Volume.csproj|solutionrelative:control\\volumecontrol.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CD64E2-4AA1-471C-9A81-63DF8CB8DD66}|Volume.csproj|c:\\users\\vital\\desktop\\volume\\control\\volumecontrol.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{C2CD64E2-4AA1-471C-9A81-63DF8CB8DD66}|Volume.csproj|solutionrelative:control\\volumecontrol.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CD64E2-4AA1-471C-9A81-63DF8CB8DD66}|Volume.csproj|c:\\users\\vital\\desktop\\volume\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CD64E2-4AA1-471C-9A81-63DF8CB8DD66}|Volume.csproj|solutionrelative:viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CD64E2-4AA1-471C-9A81-63DF8CB8DD66}|Volume.csproj|c:\\users\\vital\\desktop\\volume\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CD64E2-4AA1-471C-9A81-63DF8CB8DD66}|Volume.csproj|solutionrelative:viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CD64E2-4AA1-471C-9A81-63DF8CB8DD66}|Volume.csproj|c:\\users\\vital\\desktop\\volume\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{C2CD64E2-4AA1-471C-9A81-63DF8CB8DD66}|Volume.csproj|solutionrelative:views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CD64E2-4AA1-471C-9A81-63DF8CB8DD66}|Volume.csproj|c:\\users\\vital\\desktop\\volume\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{C2CD64E2-4AA1-471C-9A81-63DF8CB8DD66}|Volume.csproj|solutionrelative:app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CD64E2-4AA1-471C-9A81-63DF8CB8DD66}|Volume.csproj|c:\\users\\vital\\desktop\\volume\\assets\\volume.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{C2CD64E2-4AA1-471C-9A81-63DF8CB8DD66}|Volume.csproj|solutionrelative:assets\\volume.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 245,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VolumeControl.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\Desktop\\Volume\\Control\\VolumeControl.axaml.cs",
+              "RelativeDocumentMoniker": "Control\\VolumeControl.axaml.cs",
+              "ToolTip": "C:\\Users\\vital\\Desktop\\Volume\\Control\\VolumeControl.axaml.cs",
+              "RelativeToolTip": "Control\\VolumeControl.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:05:20.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VolumeControl.axaml",
+              "DocumentMoniker": "C:\\Users\\vital\\Desktop\\Volume\\Control\\VolumeControl.axaml",
+              "RelativeDocumentMoniker": "Control\\VolumeControl.axaml",
+              "ToolTip": "C:\\Users\\vital\\Desktop\\Volume\\Control\\VolumeControl.axaml",
+              "RelativeToolTip": "Control\\VolumeControl.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T14:05:18.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\Desktop\\Volume\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\vital\\Desktop\\Volume\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "ViewModels\\ViewModelBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:04:52.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\Desktop\\Volume\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\vital\\Desktop\\Volume\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:03:23.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\vital\\Desktop\\Volume\\Views\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\vital\\Desktop\\Volume\\Views\\MainWindow.axaml",
+              "RelativeToolTip": "Views\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T14:03:15.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.axaml",
+              "DocumentMoniker": "C:\\Users\\vital\\Desktop\\Volume\\App.axaml",
+              "RelativeDocumentMoniker": "App.axaml",
+              "ToolTip": "C:\\Users\\vital\\Desktop\\Volume\\App.axaml",
+              "RelativeToolTip": "App.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T14:03:14.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "volume.png",
+              "DocumentMoniker": "C:\\Users\\vital\\Desktop\\Volume\\Assets\\volume.png",
+              "RelativeDocumentMoniker": "Assets\\volume.png",
+              "ToolTip": "C:\\Users\\vital\\Desktop\\Volume\\Assets\\volume.png",
+              "RelativeToolTip": "Assets\\volume.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-01T14:02:45.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

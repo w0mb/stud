@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC2CEF7-0082-408F-8278-8E83BDB14471}|hw_11.csproj|c:\\users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC2CEF7-0082-408F-8278-8E83BDB14471}|hw_11.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC2CEF7-0082-408F-8278-8E83BDB14471}|hw_11.csproj|c:\\users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{7CC2CEF7-0082-408F-8278-8E83BDB14471}|hw_11.csproj|solutionrelative:views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC2CEF7-0082-408F-8278-8E83BDB14471}|hw_11.csproj|c:\\users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC2CEF7-0082-408F-8278-8E83BDB14471}|hw_11.csproj|solutionrelative:views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC2CEF7-0082-408F-8278-8E83BDB14471}|hw_11.csproj|c:\\users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\components\\myvisualizer.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{7CC2CEF7-0082-408F-8278-8E83BDB14471}|hw_11.csproj|solutionrelative:components\\myvisualizer.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC2CEF7-0082-408F-8278-8E83BDB14471}|hw_11.csproj|c:\\users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\components\\myvisualizer.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC2CEF7-0082-408F-8278-8E83BDB14471}|hw_11.csproj|solutionrelative:components\\myvisualizer.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC2CEF7-0082-408F-8278-8E83BDB14471}|hw_11.csproj|c:\\users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC2CEF7-0082-408F-8278-8E83BDB14471}|hw_11.csproj|solutionrelative:viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC2CEF7-0082-408F-8278-8E83BDB14471}|hw_11.csproj|c:\\users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\views\\mainview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{7CC2CEF7-0082-408F-8278-8E83BDB14471}|hw_11.csproj|solutionrelative:views\\mainview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC2CEF7-0082-408F-8278-8E83BDB14471}|hw_11.csproj|c:\\users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\views\\mainview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC2CEF7-0082-408F-8278-8E83BDB14471}|hw_11.csproj|solutionrelative:views\\mainview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC2CEF7-0082-408F-8278-8E83BDB14471}|hw_11.csproj|c:\\users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\hw_11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7CC2CEF7-0082-408F-8278-8E83BDB14471}|hw_11.csproj|solutionrelative:hw_11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC2CEF7-0082-408F-8278-8E83BDB14471}|hw_11.csproj|c:\\users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\components\\visualizerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC2CEF7-0082-408F-8278-8E83BDB14471}|hw_11.csproj|solutionrelative:components\\visualizerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC2CEF7-0082-408F-8278-8E83BDB14471}|hw_11.csproj|c:\\users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{7CC2CEF7-0082-408F-8278-8E83BDB14471}|hw_11.csproj|solutionrelative:app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC2CEF7-0082-408F-8278-8E83BDB14471}|hw_11.csproj|c:\\users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC2CEF7-0082-408F-8278-8E83BDB14471}|hw_11.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 150,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "C:\\Users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAiwFgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:39:12.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:39:12.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "ViewModels\\ViewModelBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:39:12.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainView.axaml",
+              "DocumentMoniker": "C:\\Users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\Views\\MainView.axaml",
+              "RelativeDocumentMoniker": "Views\\MainView.axaml",
+              "ToolTip": "C:\\Users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\Views\\MainView.axaml",
+              "RelativeToolTip": "Views\\MainView.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T15:39:12.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainView.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\Views\\MainView.axaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainView.axaml.cs",
+              "ToolTip": "C:\\Users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\Views\\MainView.axaml.cs",
+              "RelativeToolTip": "Views\\MainView.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:39:12.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\Views\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\Views\\MainWindow.axaml",
+              "RelativeToolTip": "Views\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T15:39:12.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\Views\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\Views\\MainWindow.axaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:39:12.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyVisualizer.axaml",
+              "DocumentMoniker": "C:\\Users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\Components\\MyVisualizer.axaml",
+              "RelativeDocumentMoniker": "Components\\MyVisualizer.axaml",
+              "ToolTip": "C:\\Users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\Components\\MyVisualizer.axaml",
+              "RelativeToolTip": "Components\\MyVisualizer.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T15:39:12.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VisualizerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\Components\\VisualizerViewModel.cs",
+              "RelativeDocumentMoniker": "Components\\VisualizerViewModel.cs",
+              "ToolTip": "C:\\Users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\Components\\VisualizerViewModel.cs",
+              "RelativeToolTip": "Components\\VisualizerViewModel.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwCcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:39:12.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyVisualizer.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\Components\\MyVisualizer.axaml.cs",
+              "RelativeDocumentMoniker": "Components\\MyVisualizer.axaml.cs",
+              "ToolTip": "C:\\Users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\Components\\MyVisualizer.axaml.cs",
+              "RelativeToolTip": "Components\\MyVisualizer.axaml.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAgwIsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:39:12.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.axaml",
+              "DocumentMoniker": "C:\\Users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\App.axaml",
+              "RelativeDocumentMoniker": "App.axaml",
+              "ToolTip": "C:\\Users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\App.axaml",
+              "RelativeToolTip": "App.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T15:39:12.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "hw_11.csproj",
+              "DocumentMoniker": "C:\\Users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\hw_11.csproj",
+              "RelativeDocumentMoniker": "hw_11.csproj",
+              "ToolTip": "C:\\Users\\ekate\\\u0440\u0430\u0431\\11\\hw_11\\hw_11.csproj",
+              "RelativeToolTip": "hw_11.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-11T15:39:12.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Сибирский государственный университет телекоммуникаций и информатики</title>
+    <style>
+        body {
+            background-color: white;
+            color: black;
+            font-size: large;
+        }
+
+        h1 {
+            font-weight: bold;
+            text-align: center;
+            font-size: xx-large;
+        }
+
+        h2 {
+            font-weight: bold;
+            font-size: x-large;
+        }
+
+        h3 {
+            font-weight: bold;
+            text-align: right;
+            font-size: x-large;
+        }
+
+        h4 {
+            text-align: right;
+            font-size: initial;
+            font-weight: normal;
+            /* Оставляем обычным, без жирного стиля */
+        }
+
+        h5 {
+            font-style: italic;
+            font-weight: normal;
+        }
+
+        p {
+            background-color: white;
+            border-right: 2px solid blue;
+            padding-left: 1em;
+            line-height: 1.5;
+            text-indent: 1em;
+            font-style: italic;
+        }
+
+        /* Стиль для гиперссылок */
+        a {
+            color: green;
+            /* Зеленый цвет текста ссылки */
+            text-decoration: none;
+            /* Убираем подчеркивание */
+        }
+        h6{
+            font-family: arial;
+            font-size: xx-large
+        }
+
+        .classs1 {
+            color: blue;
+            margin-top: -1.9em;
+            margin-right: 0.1em;
+            position: relative;
+        }
+
+        .classs1::before {
+            content: "НЕМНОГО ИСТОРИИ";
+            position: absolute;
+            top: 0;
+            left: 0;
+            color: black;
+            z-index: -1;
+        }
+
+        .historyright {
+            background-color: white;
+            border-width: 2px;
+            border-right: 7px double blue;
+            padding: 10pt;
+            margin: 2em;
+            text-indent: 15pt;
+        }
+
+        .history {
+            margin-left: 10%;
+            width: 70%;
+            background-color: lightgrey;
+        }
+
+        .up {
+            vertical-align: 9px;
+        }
+
+        .no-up {
+            vertical-align: -9px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Сибирский государственный университет <br> телекоммуникаций и информатики</h1>
+    <h2>Группа ИП-217</h2>
+    <h3>Бригада №337</h3>
+    <h4>Ковалев Даниил</h4>
+    <BLOCKQUOTE>
+        <h5>
+            О сколько нам открытий чудных,<br>
+            Готовят просвещенья дух<br>
+            И опыт, сын ошибок трудных,<br>
+            И гений, парадоксов друг,<br>
+            И случай, бог изобретатель.<br>
+        </h5>
+    </BLOCKQUOTE>
+
+    <h4>А.&nbsp;С.&nbsp;Пушкин</h4>
+
+    <UL style="list-style-type: disc; margin-left: 20px;">
+        <LI>Предметы, преподаваемые на первом курсе:
+            <OL>
+                <li>Математика</li>
+                <li>История</li>
+                <li>Программирование
+                    <UL style="list-style-type: square;">
+                        <li>Теория</li>
+                        <li>Практика</li>
+                    </UL>
+                </li>
+            </OL>
+        </LI>
+    </UL>
+
+    <UL style="list-style-type: disc; margin-left: 20px;">
+        <LI>Предметы, преподаваемые на втором курсе:
+            <OL>
+                <li>Физика</li>
+                <li>Химия</li>
+                <li>Английский язык
+                    <UL style="list-style-type: square;">
+                        <li>Литература</li>
+                        <li>Грамматика</li>
+                    </UL>
+                </li>
+            </OL>
+        </LI>
+    </UL>
+
+    <div class="history" bgcolor="#808080">
+        <h6 align="center" class="classs1">НЕМНОГО ИСТОРИ</h6>
+        <p class="historyright" align="justify">
+            WWW – это аббревиатура от <span class="up">"World Wide Web"</span> <span class="no-up">("Всемирная
+                паутина")</span>"World Wide Web" ("Всемирная
+            паутина").<br>
+            Официальное определение World Wide Web звучит как мировая виртуальная<br>
+            файловая система – широкомасштабная гипермедиа-среда, ориентированная на<br>
+            предоставление универсального доступа к информационным ресурсам.<br>
+            Проект WWW возник в начале 1989 года в Европейской Лаборатории физики<br>
+            элементарных частиц (CERN) <a href="http://www.cern.ch/" style="color: green;">http://www.cern.ch/</a> в
+            Женеве.
+            Идея проекта состояла в<br>
+            создании гипертекстовой системы связи документов в компьютерной сети. Со<br>
+            временем World Wide Web (WWW, Web) превратилась в общемировую систему,<br>
+            состоящую из программного обеспечения – WWW технологий и связанных между<br>
+            собой документов.
+        </p>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,6 @@
+C:\Users\ekate\раб\7-8\lab7\hw_7.Desktop\obj\Debug\net7.0\hw_7.Desktop.csproj.AssemblyReference.cache
+C:\Users\ekate\раб\7-8\lab7\hw_7.Desktop\obj\Debug\net7.0\Avalonia\Resources.Inputs.cache
+C:\Users\ekate\раб\7-8\lab7\hw_7.Desktop\obj\Debug\net7.0\hw_7.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekate\раб\7-8\lab7\hw_7.Desktop\obj\Debug\net7.0\hw_7.Desktop.AssemblyInfoInputs.cache
+C:\Users\ekate\раб\7-8\lab7\hw_7.Desktop\obj\Debug\net7.0\hw_7.Desktop.AssemblyInfo.cs
+C:\Users\ekate\раб\7-8\lab7\hw_7.Desktop\obj\Debug\net7.0\hw_7.Desktop.csproj.CoreCompileInputs.cache

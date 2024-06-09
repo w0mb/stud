@@ -1,0 +1,30 @@
+<Styles xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:controls="using:Volume.Control">
+
+	<Design.PreviewWith>
+		<controls:VolumeControl/>
+	</Design.PreviewWith>
+
+  <Style Selector="controls|VolumeControl">
+    <Setter Property="Template">
+		<ControlTemplate>
+			<Grid ColumnDefinitions="0.5*, 0.5*">
+				<Button Name="button" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center" 
+						VerticalContentAlignment="Center" HorizontalContentAlignment="Center">
+					<Button.Content>
+						<Image Width="30" Source="{TemplateBinding Icon}" />
+					</Button.Content>
+				</Button>
+				<Grid Grid.Column="1" RowDefinitions="0.5*, 0.5*" VerticalAlignment="Center" HorizontalAlignment="Center" Width="300">
+					<Slider Name="slider" Grid.Row="0" Width="200" IsVisible="{TemplateBinding IsExpanded}" 
+							Minimum="{TemplateBinding Minimum}" Maximum="{TemplateBinding Maximum}" Value="{TemplateBinding Maximum}"
+							VerticalAlignment="Center" HorizontalAlignment="Center"/>
+					<TextBlock Grid.Row="1" Text="{TemplateBinding CurrentValue}" IsVisible="{TemplateBinding IsExpanded}"
+							   HorizontalAlignment="Center" VerticalAlignment="Top"/>
+				</Grid>
+			</Grid>
+        </ControlTemplate>
+    </Setter>
+  </Style>
+</Styles>
